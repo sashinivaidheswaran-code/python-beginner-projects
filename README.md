@@ -5,4 +5,4 @@ This repository contains beginner Python programs and small projects created whi
 ## Projects
 - Rock Paper Scissors Game
 
-More projects will be added as I continue learning Python.
+
