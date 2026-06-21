@@ -1,41 +1,41 @@
-# Python Projects
+Hi, I'm Sashini
 
-A collection of small Python implementations built to reinforce core programming logic and problem-solving skills.
+AI & Data Science Student
 
-These projects focus on applying fundamental concepts through working programs rather than theory-based learning.
+I am currently pursuing a degree in Artificial Intelligence and Data Science. My interests include data analysis, machine learning, databases, and software development. I enjoy building projects that strengthen my problem-solving skills and help me apply theoretical concepts to practical scenarios.
 
----
+Current Focus Areas
 
-## 🚀 Projects Included
+Python Programming
+Database Management with SQL
+Data Analysis
+Power BI
+Artificial Intelligence
+Machine Learning
+Deep Learning
 
-### 1. Rock Paper Scissors Game
-A simple interactive command-line game where the user plays against the computer.
+Projects
 
-**Concepts Covered:**
-- Conditional statements
-- Random module
-- User input handling
-- Basic game logic implementation
+Rock Paper Scissors Game
+A Python project implementing game logic, user interaction, and conditional programming concepts.
 
----
+Learning Journey
 
-## 🎯 Purpose of This Repository
+I am actively expanding my portfolio by working on projects related to:
 
-- Strengthen Python fundamentals through mini-projects
-- Improve problem-solving and logical thinking
-- Build consistency in coding practice
-- Prepare for advanced domains like Data Science and AI
+SQL and Database Systems
+Data Visualization
+Business Intelligence using Power BI
+Machine Learning Applications
+AI-based Solutions
 
----
+New projects will be added regularly as I progress through my coursework and personal learning goals.
 
-## 🧠 Skills Demonstrated
+Goals
+Build a strong portfolio in AI and Data Science
+Gain practical experience through projects and internships
+Develop skills in data analytics and machine learning
+Contribute to open-source and collaborative projects
 
-- Python basics (syntax, variables, loops)
-- Control flow (if-else logic)
-- Functions and modular thinking
-- Basic CLI-based application development
-
-📌 Note
-
-This repository is continuously updated as new concepts are learned and implemented.
-
+GitHub Statistics
+Check out my repositories to follow my learning journey and project development.
